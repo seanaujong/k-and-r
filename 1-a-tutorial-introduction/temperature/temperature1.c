@@ -2,6 +2,10 @@
 
 /* Section 1.2 - Variables and Arithmetic Expressions */
 
+/* problem: since we have used integer arithmetic,
+    the Celsius temperatures are not very accurate;
+    for instance, 0F is actually -17.8C not -17C */
+
 /* print Fahrenheit-Celsius table
     for fahr = 0, 20, ..., 300 */
 int main()
