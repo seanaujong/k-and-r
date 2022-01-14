@@ -17,6 +17,7 @@ int main()
     upper = 100;    /* upper limit */
     step = 5;       /* step size */
 
+    /* TODO: is the a better way to format this? */
     printf("  F      C\n");
 
     celsius = lower;
