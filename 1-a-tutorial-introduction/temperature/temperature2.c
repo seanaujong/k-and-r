@@ -4,6 +4,10 @@
     additionally, augmenting each %d in printf with a width
     causes the numbers to be right-justified in their fields */
 
+/* if an arithmetic operator has one floating-point operand
+    and one integer operand, then the integer will be
+    converted to floating point before the operation is done */
+
 /* print Fahrenheit-Celsius table
     for fahr = 0, 20, ..., 300; floating-point version */
 int main()
