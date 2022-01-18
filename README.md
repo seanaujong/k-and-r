@@ -1,5 +1,3 @@
-# k-and-r notes
+# The C Exercises and Annotations Repository
 
-My notes while reading The C Programming Language (aka K&R)
-
-Currently on page 32/288 of pdf
+My annotations of the exercises within The C Programming Language (aka K&R) using the ansewrs found in the C Answer Book (Clovis; Scott)
